@@ -21,8 +21,9 @@ Small: 1.05
 
 Primary: #e67e22
 
-Tints: #fdf2e9 , #cf711f
-Shades:
+Tints: #fdf2e9
+       #fae5d3
+Shades: #cf711f
 Accents: 
 Greys: 
 #555 
@@ -65,6 +66,13 @@ body {
 /* *************************** */
 
 
+
+
+.container {
+  max-width: 120rem;
+  padding: 0 3.6rem;
+  margin: 0 auto;
+}
 
 .heading-primary,
 .heading-secondary
