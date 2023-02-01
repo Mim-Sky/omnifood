@@ -186,6 +186,7 @@
 .logos {
   display: flex;
   justify-content: space-around;
+  padding: 0, 3.6rem;
 
 }
 
@@ -202,7 +203,7 @@
 
 
 .section-how {
-  padding: 9.6rem;
+  padding: 9.6rem 0;
 }
 
 
@@ -254,4 +255,13 @@
 
 .step-img {
   width: 35%;
+}
+
+/* *********************** */
+/* MEALS SECTION*/
+/* *********************** */
+
+
+.section-meals {
+  padding: 9.6rem 0;
 }
